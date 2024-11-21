@@ -56,18 +56,18 @@ const dilhan = {
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DilanPadukka&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SDRasanjana&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilanPadukka&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDRasanjana&theme=radical" alt="GitHub Streak" />
 </p>  
 
 ---
 
 ## 🏆 Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DilanPadukka&theme=onedark&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SDRasanjana&theme=onedark&margin-w=15&no-frame=true" />
 </p>
 
 ---
@@ -82,7 +82,7 @@ const dilhan = {
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DilanPadukka&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SDRasanjana&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 <p align="center">
   💡 Always open for exciting projects and collaborations!
