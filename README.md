@@ -65,12 +65,6 @@ const dilhan = {
 
 ---
 
-## 🏆 Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SDRasanjana&theme=onedark&margin-w=15&no-frame=true" />
-</p>
-
----
 
 ## 📫 Connect With Me  
 <p align="center">
